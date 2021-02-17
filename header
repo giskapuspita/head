@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Fantastic four</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <!-- Ketik code Anda disini -->
+    <header></header>
+    <div class="top-wrapper">
+        <div class="container">
+            <h1>1,000 + Ready Made Designs Download</h1>
+            <h1>Ever-growing library of mockups and templates.</h1>
+            <p>Choose from our carefully crafted templates.</p>
+            <div class="btn-wrapper">
+              <a href="#" class="btn browse"><span class="fa fa-facebook"></span>Browse all mockup</a>
+            </div>
+        </div>
+    </div>
+    <footer></footer>
+  </body>
+</html>
